@@ -1,9 +1,8 @@
-# /*
 
-# Question Link : https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1
-
-
-# */
+"""
+Question Link : https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1
+Question Name : sum-of-numbers-in-string
+"""
 
 class Solution:
     def findSum(self, s):

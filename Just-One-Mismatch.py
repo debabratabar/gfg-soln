@@ -1,9 +1,8 @@
-# /*
+"""
+Question Link : https://www.geeksforgeeks.org/problems/just-one-mismatch1714/1
+Question Name : Just One Mismatch
 
-# Question Link : https://www.geeksforgeeks.org/problems/just-one-mismatch1714/1
-
-
-# */
+"""
 
 class Solution:
     def isStringExist (self, arr, N, S):
